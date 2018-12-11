@@ -19,7 +19,7 @@ User Personas:
 
 [User Stories](___) I created as part of an ongoing Trello board.
 
-[Style Guide](/layout.png)
+[Style Guide](IXD501/Layout.png)
 
 [Gif of branding](___) that could be used as part of the Kickstarter video. 
 
