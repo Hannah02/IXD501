@@ -5,16 +5,16 @@
 [Pricing research for similar Kickstarter Campaigns](https://github.com/Hannah02/PricingResearch)
 
 User Personas:
-*[User Persona 1](___)
+* [User Persona 1](___)
 ⋅⋅⋅
 
-*[User Persona 2](___)
+* [User Persona 2](___)
 ⋅⋅⋅
 
-*[User Persona 3](___)
+* [User Persona 3](___)
 ⋅⋅⋅
 
-*[User Persona 4](___)
+* [User Persona 4](___)
 ⋅⋅⋅
 
 [User Stories](___) I created as part of an ongoing Trello board.
