@@ -1,6 +1,6 @@
 # IXD501
 
-## {Three initial ideas}(https://github.com/Hannah02/major_project_ideas)
+## [Three initial ideas](https://github.com/Hannah02/major_project_ideas)
 
 ## ["Quail and Pancetta", my 501 research blog](hannahsharp.co.uk/blog)
 
