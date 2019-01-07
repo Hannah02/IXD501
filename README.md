@@ -9,7 +9,7 @@
 
 This includes research such as:
 
-* Interviews with relevant people 
+* Talking to people who can help with my project
 
 * Qualititve survey results
 
@@ -46,3 +46,12 @@ I created this persona based on the responses of the person who is non-binary wh
 ## [Gif of branding](/SwirlAnimation.gif) that could be used as part of the Kickstarter video. 
 
 ## [MailChimp landing page](https://mailchi.mp/14e84654482b/makeyourmark) that will be expanded with more content as I create it.
+
+## [A rough draft of the Kicksarter content](/KickstarterInfo.pdf) that will be updated as I am able to get more concrete pricing on specific areas of the project.
+
+## [Cover Ideas](/CoverIdeas.png)
+## [Inner Page Pattern](/MakeYourMarkBoard-09.png)
+## [Quote Page In Dark Purple](/MakeYourMarkBoard-08.png)
+## [Quote Page In Blue](/MakeYourMarkBoard-04.png)
+## [Initial Ideas for Backer Tiers.](/LOGOIDEAS.png)
+## [Illustrated badges](/PatternAndBadges.png) that reflect each of the Kickstarter tiers. These could also be made into stickers.
