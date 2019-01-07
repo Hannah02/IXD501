@@ -53,6 +53,6 @@ I created this persona based on the responses of the person who is non-binary wh
 ## [Inner Page Pattern](/MakeYourMarkBoard-09.png)
 ## [Quote Page In Dark Purple](/MakeYourMarkBoard-08.png)
 ## [Quote Page In Blue](/MakeYourMarkBoard-04.png)
-## [Example Interview Page Layout](/InterviewPageExample.png)
+## [Example Interview Page Layout](/IntervewPageExample.png)
 ## [Initial Ideas for Backer Tiers.](/LOGOIDEAS.png)
 ## [Illustrated badges](/PatternAndBadges.png) that reflect each of the Kickstarter tiers. These could also be made into stickers.
