@@ -1,5 +1,8 @@
 # IXD501
 
+
+# Research
+
 ## [Three initial ideas](https://github.com/Hannah02/major_project_ideas)
 
 ## ["Quail and Pancetta", my 501 research blog](hannahsharp.co.uk/blog)
@@ -32,7 +35,11 @@ I created this persona based on the responses of the person who is non-binary wh
 
 ## [Pricing research for similar Kickstarter Campaigns](https://github.com/Hannah02/PricingResearch)
 
-## [User Stories](https://trello.com/invite/b/wEfYgnus/71248578e93632a045938c2945e8d537/final-year) I created as part of an ongoing Trello board. 
+## [User Stories](https://trello.com/invite/b/wEfYgnus/71248578e93632a045938c2945e8d537/final-year) I created as part of an ongoing Trello board.
+
+
+
+# Prototypes
 
 ## [Style Guide](/Layout.png) for the book.
 
