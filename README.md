@@ -43,7 +43,7 @@ I created this persona based on the responses of the person who is non-binary wh
 
 ## [Style Guide](/Layout.png) for the book.
 
-## [Gif of branding](/SwirlAnimation.gif) that could be used as part of the Kickstarter video. 
+## [Gif of branding](/SwirlAnimation.gif) that could be used as part of the Kickstarter video. It can also be used as a [web animation](http://hannahsharp.co.uk/make_your_mark/)
 
 ## [MailChimp landing page](https://mailchi.mp/14e84654482b/makeyourmark) that will be expanded with more content as I create it.
 
