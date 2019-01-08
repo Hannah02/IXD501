@@ -49,6 +49,8 @@ I created this persona based on the responses of the person who is non-binary wh
 
 ## [A rough draft of the Kicksarter content](/KickstarterInfo.pdf) that will be updated as I am able to get more concrete pricing on specific areas of the project.
 
+## [Brundle Award Submission](/BrundleAwardHannahSharp.pdf)
+
 ## [Cover Ideas](/CoverIdeas.png)
 ## [Inner Page Pattern](/MakeYourMarkBoard-09.png)
 ## [Quote Page In Dark Purple](/MakeYourMarkBoard-08.png)
